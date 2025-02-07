@@ -1,4 +1,4 @@
-public class CommandLineCalculator {
+public class commandlinecalculator {
     public static void main(String[] args) {
         if (args.length != 3) {
             System.out.println("Usage: java CommandLineCalculator <num1> <operator> <num2>");
