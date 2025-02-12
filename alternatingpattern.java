@@ -14,4 +14,4 @@ public class alternatingpattern {
             symbol = (symbol == '?') ? '#' : '?';
         }
     }
-}
+} 
