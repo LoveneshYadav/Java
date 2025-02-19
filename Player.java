@@ -28,7 +28,7 @@ class Football_player extends Player{
     }
 }
 class Hockey_player extends Player{
-    public Hockey_player(String name, int age, String position){
+    public Hockey_player(String name, int age, String position){   //function
         super(name, age, position);
     }
 }
